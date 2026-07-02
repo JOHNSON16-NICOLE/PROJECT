@@ -31,5 +31,14 @@ https://drive.google.com/file/d/1kTUk3-U4hS_Rv11rBkFbE47xBxBNsnHU/view?usp=shari
 
 •	Result: rows reduced from 330 to 138 — one row per consumer, ready for a clean one-to-one relationship with Consumers.
 
+# Dashboard Screenshot 1
+<img width="886" height="497" alt="RESTAURANT DASHBOARD 1" src="https://github.com/user-attachments/assets/f4574a79-46e9-4e52-b0a2-09b389d60f3e" />
+
+# Dashboard Screenshot 2
+<img width="865" height="485" alt="RESTAURANT DASHBOARD 2" src="https://github.com/user-attachments/assets/549badb1-a16d-4625-ab9a-0be99c1e928d" />
+
+
+
+
 
 
