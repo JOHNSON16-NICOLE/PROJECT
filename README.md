@@ -37,7 +37,9 @@ https://drive.google.com/file/d/1kTUk3-U4hS_Rv11rBkFbE47xBxBNsnHU/view?usp=shari
 # Dashboard Screenshot 2
 <img width="865" height="485" alt="RESTAURANT DASHBOARD 2" src="https://github.com/user-attachments/assets/549badb1-a16d-4625-ab9a-0be99c1e928d" />
 
+# Report 
 
+https://drive.google.com/file/d/1pm7xonQ4FbCS-jwh8eYe-tjCH2q7pta7/view?usp=sharing
 
 
 
