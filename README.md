@@ -1,21 +1,25 @@
-#RESTAURANT & CONSUMER ANALYTICS
+# RESTAURANT & CONSUMER ANALYTICS
 
-##Project objective
+## Project objective
 To analyze the Restaurant Rating Dataset to identify customer preferences, popular cuisines, and the key factors influencing restaurant ratings and performance in Mexico. The analysis will provide actionable insights to help entrepreneurs and investors make informed business and investment decisions in the restaurant industry.
 
-##Data set used 
+## Data set used 
+
 https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link
 
-##Question 
+## Question 
+
 •	What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings? 
 •	What are the consumer demographics? Does this indicate a bias in the data sample?
 •	Are there any demand & supply gaps that you can exploit in the market? 
 •	If you were to invest in a restaurant, which characteristics would you be looking for?
 
-##Dashboard interaction
+## Dashboard interaction
+
 https://drive.google.com/file/d/1kTUk3-U4hS_Rv11rBkFbE47xBxBNsnHU/view?usp=sharing
 
 ## process
+
 •	No rows were removed — all 138 consumers were retained.
 •	Missing categorical values were imputed using mode substitution (the most frequent value in each column): Smoker → "No"; Transportation_Method → "Public"; Children → "Independent"; Occupation → "Student"; Budget → "Medium"; Marital_Status → the majority category.
 •	De-duplicated to exactly one preferred-cuisine record per consumer, keeping the first listed preference and discarding repeated/erroneous entries (this resolved the 103-row anomaly for consumer U1135 and the two exact duplicates).
